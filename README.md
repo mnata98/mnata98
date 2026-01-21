@@ -1,4 +1,4 @@
-## Hi there 👋
+## Salam Semua 👋
 
 <!--
 **mnata98/mnata98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-. 🔭 I’m currently working on ...
+-. 🌱 I’m currently learning ...
 ![SoExcited~GIF](https://github.com/user-attachments/assets/6bee51e3-b3dd-46cb-b4d0-d798c21933a1)
 
