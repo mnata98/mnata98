@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 -. 🔭 I’m currently working on ...
 -. 🌱 I’m currently learning ...
-![SoExcited~GIF](https://github.com/user-attachments/assets/6bee51e3-b3dd-46cb-b4d0-d798c21933a1)
+
 
